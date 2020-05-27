@@ -1,0 +1,37 @@
+[{
+        "Marka": "Rock Shox",
+        "Model": "Reveletion",
+        "Skok": 150,
+        "Cena": 2000.00
+    },
+    {
+        "Marka": "Rock Shox",
+        "Model": "Pike",
+        "Skok": 160,
+        "Cena": 3000.00
+    },
+    {
+        "Marka": "Rock Shox",
+        "Model": "Monarch",
+        "Skok": 150,
+        "Cena": 1500.00
+    },
+    {
+        "Marka": "Fox",
+        "Model": "36",
+        "Skok": 180,
+        "Cena": 4000.00
+    },
+    {
+        "Marka": "Fox",
+        "Model": "40",
+        "Skok": 200,
+        "Cena": 5000.00
+    },
+    {
+        "Marka": "Fox",
+        "Model": "Float RP2",
+        "Skok": 150,
+        "Cena": 5000.00
+    }
+]

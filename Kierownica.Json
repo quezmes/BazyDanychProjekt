@@ -1,0 +1,27 @@
+[{
+        "Marka": "Syntec",
+        "Wielkosc": "800",
+        "Cena": 400.00
+    },
+    {
+        "Marka": "Ritchey",
+        "Wielkosc": "740",
+        "Cena": 200.00
+    },
+    {
+        "Marka": "Fatbar",
+        "Wielkosc": "780",
+        "Cena": 450.00
+    },
+    {
+        "Marka": "Uno",
+        "Wielkosc": "720",
+        "Cena": 50.00
+    },
+    {
+        "Marka": "Author",
+        "Wielkosc": "680",
+        "Cena": 150.00
+    }
+
+]

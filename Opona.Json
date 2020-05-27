@@ -1,0 +1,38 @@
+[{
+        "Marka": "Continental",
+        "Model": "Race King",
+        "Szerokosc": 2.2,
+        "Cena": 100.00
+    },
+    {
+        "Marka": "Continental",
+        "Model": "Der Baron",
+        "Szerokosc": 2.4,
+        "Cena": 250.00
+    },
+    {
+        "Marka": "Maxxis",
+        "Model": "Minion",
+        "Szerokosc": 2.5,
+        "Cena": 200.00
+    },
+    {
+        "Marka": "Maxxis",
+        "Model": "Ikon",
+        "Szerokosc": 2.3,
+        "Cena": 180.00
+    },
+    {
+        "Marka": "Schwalbe",
+        "Model": "Magic Mary",
+        "Szerokosc": 2.25,
+        "Cena": 220.00
+    },
+    {
+        "Marka": "Schwalbe",
+        "Model": "Racing Ralph",
+        "Szerokosc": 2.25,
+        "Cena": 150.00
+    }
+
+]

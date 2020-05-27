@@ -1,0 +1,45 @@
+[{
+        "Marka": "Shimano",
+        "Model": "Alivio",
+        "Ilosc_Tloczkow": 2,
+        "Typ": "mechaniczny",
+        "Cena": 80.00
+    },
+    {
+        "Marka": "Shimano",
+        "Model": "Saint",
+        "Ilosc_Tloczkow": 4,
+        "Typ": "hydrauliczny",
+        "Cena": 450.00
+    },
+    {
+        "Marka": "Shimano",
+        "Model": "Deore XT",
+        "Ilosc_Tloczkow": 2,
+        "Typ": "hydrauliczny",
+        "Cena": 300.00
+    },
+    {
+        "Marka": "Sram",
+        "Model": "Level T",
+        "Ilosc_Tloczkow": 2,
+        "Typ": "hydrauliczny",
+        "Cena": 350.00
+    },
+    {
+        "Marka": "Hope",
+        "Model": "E3 v4",
+        "Ilosc_Tloczkow": 4,
+        "Typ": "hydrauliczny",
+        "Cena": 800.00
+    },
+    {
+        "Marka": "Magura",
+        "Model": "MT7",
+        "Ilosc_Tloczkow": 4,
+        "Typ": "hydrauliczny",
+        "Cena": 700.00
+    }
+
+
+]

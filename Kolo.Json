@@ -1,0 +1,42 @@
+[{
+        "Marka": "DT SWISS",
+        "Wielkosc": 29,
+        "Cena": 500.00
+    },
+    {
+        "Marka": "DT SWISS",
+        "Wielkosc": 27.5,
+        "Cena": 500.00
+    },
+    {
+        "Marka": "Mavic",
+        "Wielkosc": 29,
+        "Cena": 800.00
+    },
+    {
+        "Marka": "Mavic",
+        "Wielkosc": 27.5,
+        "Cena": 800.00
+    },
+    {
+        "Marka": "Shimano",
+        "Wielkosc": 29,
+        "Cena": 300.00
+    },
+    {
+        "Marka": "Shimano",
+        "Wielkosc": 27.5,
+        "Cena": 300.00
+    },
+    {
+        "Marka": "WTB",
+        "Wielkosc": 29,
+        "Cena": 450.00
+    },
+    {
+        "Marka": "WTB",
+        "Wielkosc": 27.5,
+        "Cena": 450.00
+    }
+
+]

@@ -1,0 +1,46 @@
+[{
+        "Marka": "Shimano",
+        "Model": "Deore",
+        "Ilosc_Rzedow_Z_Tylu": 10,
+        "Ilosc_Rzedow_Z_Przodu": 2,
+        "Zakres_Przelozen_Z_Tylu": "11-42",
+        "Zakres_Przelozen_Z_Przodu": "24-36",
+        "Cena": 800.00
+    },
+    {
+        "Marka": "Shimano",
+        "Model": "SLX",
+        "Ilosc_Rzedow_Z_Tylu": 11,
+        "Ilosc_Rzedow_Z_Przodu": 1,
+        "Zakres_Przelozen_Z_Tylu": "11-46",
+        "Zakres_Przelozen_Z_Przodu": "32",
+        "Cena": 1200.00
+    },
+    {
+        "Marka": "Shimano",
+        "Model": "Deore XT",
+        "Ilosc_Rzedow_Z_Tylu": 12,
+        "Ilosc_Rzedow_Z_Przodu": 1,
+        "Zakres_Przelozen_Z_Tylu": "10-51",
+        "Zakres_Przelozen_Z_Przodu": "24-36",
+        "Cena": 1600.00
+    },
+    {
+        "Marka": "Sram",
+        "Model": "NX Eagle",
+        "Ilosc_Rzedow_Z_Tylu": 12,
+        "Ilosc_Rzedow_Z_Przodu": 1,
+        "Zakres_Przelozen_Z_Tylu": "11-50",
+        "Zakres_Przelozen_Z_Przodu": "32",
+        "Cena": 1000.00
+    },
+    {
+        "Marka": "Sram",
+        "Model": "GX Eagle",
+        "Ilosc_Rzedow_Z_Tylu": 12,
+        "Ilosc_Rzedow_Z_Przodu": 1,
+        "Zakres_Przelozen_Z_Tylu": "10-50",
+        "Zakres_Przelozen_Z_Przodu": "32",
+        "Cena": 1500.00
+    }
+]

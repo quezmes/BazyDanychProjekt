@@ -1,0 +1,41 @@
+[{
+        "Marka": "Trek",
+        "Model": "Superfly",
+        "Material": "Aluminium",
+        "Kolor": "Czarny",
+        "Rozmiary": "XL/L/M/S",
+        "Cena": 3000.00
+    },
+    {
+        "Marka": "Trek",
+        "Model": "Procaliber",
+        "Material": "Karbon",
+        "Kolor": "Niebieski",
+        "Rozmiary": "XL/L/M/S",
+        "Cena": 5500.00
+    },
+    {
+        "Marka": "Merida",
+        "Model": "Big Seven",
+        "Material": "Aluminium",
+        "Kolor": "Czerwony",
+        "Rozmiary": "XL/L/M/S",
+        "Cena": 2500.00
+    },
+    {
+        "Marka": "Merida",
+        "Model": "Big Nine",
+        "Material": "Karbon",
+        "Kolor": "Czarny",
+        "Rozmiary": "XL/L/M/S",
+        "Cena": 3700.00
+    },
+    {
+        "Marka": "Scott",
+        "Model": "Genius",
+        "Material": "Karbon",
+        "Kolor": "Czarny",
+        "Rozmiary": "XL/L/M/S",
+        "Cena": 4800.00
+    }
+]
